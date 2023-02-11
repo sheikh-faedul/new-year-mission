@@ -5,6 +5,7 @@ header{
     display: flex;
     align-items: center;
    
+   
 }
   .button{ 
        background-color: coral;
@@ -13,4 +14,22 @@ header{
        margin: 15px;
        padding: 5px;
  }
- 
+ /* banner-item end  */
+ .last-fails{
+     display: flex;
+     align-items: center;
+     justify-content: space-around;
+ }
+ .last-fails img{
+     height: 500px;
+ }
+ /* plans part star */
+ .plan-header{
+     display: flex;   
+    justify-content: center;
+    font-size: medium;
+ }
+ .plans{
+     display: flex;
+     justify-content: space-between;
+ }
