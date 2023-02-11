@@ -33,3 +33,15 @@ header{
      display: flex;
      justify-content: space-between;
  }
+ footer{
+     background-color: black;
+     color: white;
+     margin:0 150px;
+     display: flex;
+     justify-content: space-evenly;
+ }
+ .subcribe{
+     color:coral ;
+     padding: 5px;
+
+ }
