@@ -1,3 +1,4 @@
+/* banner part start */
 header img{
     width: 50%;
 }
@@ -33,6 +34,7 @@ header{
      display: flex;
      justify-content: space-between;
  }
+ /* footer part star */
  footer{
      background-color: black;
      color: white;
