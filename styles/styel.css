@@ -1,4 +1,16 @@
+header img{
+    width: 50%;
+}
 header{
     display: flex;
     align-items: center;
+   
 }
+  .button{ 
+       background-color: coral;
+       color: white;
+       border: none;
+       margin: 15px;
+       padding: 5px;
+ }
+ 
